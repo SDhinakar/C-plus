@@ -7,7 +7,6 @@ using std::cin; //likewise the operations can be specified.
 // using namespace std;
 
 #define DHINA 061104
-
 int main()
 {
     const std::string str="dhinakar shanmugam";
